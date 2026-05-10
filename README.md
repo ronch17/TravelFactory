@@ -89,6 +89,13 @@ If using local PostgreSQL manually, create:
 CREATE DATABASE travel_factory;
 ```
 
+# Seed DB
+
+```bash
+- cd backend
+- npm run seed
+```
+
 # 2) Backend setup (`backend/.env`)
 
 Create `backend/.env` with:
